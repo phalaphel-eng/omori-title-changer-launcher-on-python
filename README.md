@@ -1,12 +1,46 @@
-Watcher is that kind of guy who prevents your title from changing (with little remarks - you can see them in the console). 
-And, of course, it only works with OMORI TITLE CHANGE. 
-This is the launcher, so you don’t have to open the game through Steam, by the way.
-If you're laze ass and don't want to always open game files, you can just create a shortcut for the launcher. Here's how:\n
- Right-click on OMORI TITLE CHANGE.py\n
- Select "Create shortcut"\n
- Move the shortcut to your desktop or anywhere you like
- Rename it if you want (e.g., "OMORI Launcher")
- Double-click it whenever you want to change the title and launch the game
-And LICENCE - just for fun, you can read it, but you can also throw it straight into the trash can. 
-HAVE FUN MA BOI!
+# OMORI Title Launcher
 
+**Watcher** is that kind of guy who prevents your title from changing  
+(with little remarks - you can see them in the console).  
+And, of course, it only works with **OMORI TITLE CHANGE**.
+
+This is the launcher, so you don’t have to open the game through Steam, by the way.
+
+---
+
+## 🔧 How to use
+
+1. Download or clone this repository.
+2. Run `OMORI TITLE CHANGE.py` - it will ask you which title screen you want.
+3. The launcher will change the title, launch the game, and activate the watcher.
+
+---
+
+## 🧠 Lazy mode
+
+If you're feeling lazy, you can create a shortcut for the launcher:
+
+1. Right-click on `OMORI TITLE CHANGE.py`
+2. Select **"Create shortcut"**
+3. Move the shortcut to your desktop or anywhere you like
+4. Rename it if you want (e.g., `OMORI Launcher`)
+5. Double-click it whenever you want to change the title and launch the game
+
+---
+
+## 🎮 Requirements
+
+- Steam account with OMORI in library
+- Wi-Fi (for Steam launch)
+- Python 3.6+
+
+---
+
+## 📄 License
+
+**WTFPL** — Do What The Fuck You Want To Public License.  
+You can read it, ignore it, or throw it away. It's here just for fun.
+
+---
+
+> *made with frustration, tears, and love for OMORI*
