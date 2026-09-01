@@ -11,8 +11,9 @@ This is the launcher, so you don’t have to open the game through Steam, by the
 ## 🔧 How to use
 
 1. Download or clone this repository.
-2. Run `OMORI TITLE CHANGE.py` - it will ask you which title screen you want.
-3. The launcher will change the title, launch the game, and activate the watcher.
+2. Put all .py files in game directory(where game .exe file)
+3. Run `OMORI TITLE CHANGE.py` - it will ask you which title screen you want.
+4. The launcher will change the title, launch the game, and activate the watcher.
 
 ---
 
