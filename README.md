@@ -2,7 +2,8 @@
 
 **Watcher** is that kind of guy who prevents your title from changing  
 (with little remarks - you can see them in the console).  
-And, of course, it only works with **OMORI TITLE CHANGE**.
+And, of course, it only works with **OMORI TITLE CHANGE**, and you have to activate it (just wait for the game window to open and then watcher will ask you to press enter,
+you can press what ever you want, then watcher will say that he protecting choosen layer) than enjoy your game.
 
 This is the launcher, so you don’t have to open the game through Steam, by the way.
 
